@@ -149,11 +149,12 @@ Mental health aggregate score
 Country-based usage filtering
 
 This page explains how students use social media and which platforms drive addiction.
-  <img width="863" height="485" alt="Screenshot (15)" src="https://github.com/user-attachments/assets/b1902d96-24b8-495b-9632-11b2689b2d33" />
-  
-<img width="867" height="487" alt="Screenshot (14)" src="https://github.com/user-attachments/assets/f3c273dc-087c-4e38-875b-0e33bc8776d5" />
 
-<img width="870" height="489" alt="Screenshot (13)" src="https://github.com/user-attachments/assets/21a5e8cf-3497-4385-8a31-8f628567c689" />
+  <img width="863" height="485" alt="Screenshot (15)" src="https://github.com/user-attachments/assets/1f1c69e1-91a7-4ce4-ba89-bf1a780bcc99" />
+  
+<img width="867" height="487" alt="Screenshot (14)" src="https://github.com/user-attachments/assets/a7fefc5f-1b21-4521-846e-0fe355472edd" />
+
+<img width="870" height="489" alt="Screenshot (13)" src="https://github.com/user-attachments/assets/0e606876-5c3b-447a-9bcf-9cdc16afbb18" />
 
 
 # Project Insights
