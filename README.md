@@ -150,11 +150,11 @@ Country-based usage filtering
 
 This page explains how students use social media and which platforms drive addiction.
 
-  <img width="863" height="485" alt="Screenshot (15)" src="https://github.com/user-attachments/assets/1f1c69e1-91a7-4ce4-ba89-bf1a780bcc99" />
-  
-<img width="867" height="487" alt="Screenshot (14)" src="https://github.com/user-attachments/assets/a7fefc5f-1b21-4521-846e-0fe355472edd" />
+ <img width="867" height="487" alt="Screenshot (14)" src="https://github.com/user-attachments/assets/c087a451-7955-48ff-ba62-68b5bf9b5b49" />
 
-<img width="870" height="489" alt="Screenshot (13)" src="https://github.com/user-attachments/assets/0e606876-5c3b-447a-9bcf-9cdc16afbb18" />
+<img width="870" height="489" alt="Screenshot (13)" src="https://github.com/user-attachments/assets/d31d45ee-10f7-4145-8a93-545e9adfda03" />
+
+<img width="863" height="485" alt="Screenshot (15)" src="https://github.com/user-attachments/assets/4fee089c-0ffa-417f-b42e-17c9f3a165de" />
 
 
 # Project Insights
