@@ -100,7 +100,7 @@ Design Principles
 
   # Dashboard
 Dashboard Structure
-1️⃣ Executive Overview Page
+## Executive Overview Page
 
 Provides high-level KPIs including:
 
@@ -118,7 +118,7 @@ Academic Impact Indicator
 
 This page enables quick decision-making at a glance.
 
-2️⃣ Academic Performance Impact
+## Academic Performance Impact
 
 Focuses on how addiction affects:
 
@@ -134,7 +134,7 @@ Conflict frequency across countries
 
 This page connects digital behavior with real-life outcomes.
 
-3️⃣ Usage Patterns & Behaviour
+##  Usage Patterns & Behaviour
 
 Analyzes:
 
