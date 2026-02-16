@@ -162,25 +162,25 @@ This page explains how students use social media and which platforms drive addic
 
 Approximately 74% of students show academic performance impact due to social media addiction.
 
-🧠 2. Mental Health Correlation
+ 2. Mental Health Correlation
 
 Students with higher addiction scores tend to cluster around mid-to-high mental health risk levels.
 
-😴 3. Sleep Reduction Pattern
+3. Sleep Reduction Pattern
 
 - Sleep hours decline significantly at higher engagement levels.
 - High school students show the lowest cumulative sleep duration.
 
-👩‍🎓 4. Gender Usage Trends
+ 4. Gender Usage Trends
 
 Female students show slightly higher average daily usage hours compared to males in key age brackets.
 
-📱 5. High-Risk Platforms
+5. High-Risk Platforms
 
 Instagram and TikTok contribute the highest addiction scores.
 Facebook and WhatsApp follow closely.
 
-🌍 6. Conflict Trends
+6. Conflict Trends
 
 Certain countries show higher social media conflict frequency, indicating cultural or behavioral patterns.
 
